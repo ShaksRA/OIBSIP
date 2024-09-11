@@ -19,3 +19,6 @@ Your UI should include four main elements:
 ![image](https://github.com/user-attachments/assets/c638a297-a0f3-4318-addb-48e5b59f4d3d)
 
 ![image](https://github.com/user-attachments/assets/7bb0b537-3029-408b-84be-70e64633a04e)
+
+https://github.com/user-attachments/assets/38c6bb0a-3b48-4dff-b3ea-93c00621bb49
+
